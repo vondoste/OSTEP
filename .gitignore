@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# outputs
+c02/p1
+c02/p2
+c02/p3
+c02/p4
+*.output
